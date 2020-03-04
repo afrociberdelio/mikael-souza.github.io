@@ -1,6 +1,6 @@
-baseURL: https://example.com
+baseURL: https://mikaelsouza.com.br
 languageCode: en-us
-title: Personal website and blog
+title: Blog de Tecnologia
 theme: hugo-refresh
 # theme: ../..
 
@@ -92,7 +92,7 @@ params:
     # option to specify the title in the homepage
     title: Julia The White
     # option to specify the subtitle in the homepage
-    subtitle: Personal website and blog
+    subtitle: Blog de Tecnologia
     # option to specify image in the homepage
     image: "/images/avataaars.png" # worker.svg 
     # option to specify the width of the image in the homepage
@@ -105,11 +105,11 @@ params:
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
-      link: name.surname@domain.com
+      link: contato@mikaelsouza.com.br
       title: My Email
     # option to specify your linkedin profile in the footer
     linkedin: 
-      link: your_linkedin_profile
+      link: linkedin.com/in/mikaelsouzaoficial
       title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
@@ -151,7 +151,7 @@ languages:
     # See example below:
     params:
       homepage:
-        title: Julia белая краска
+        title: Mikael Souza
         subtitle: Персональный сайт и блог
         image: "/images/avataaars.png" # worker.svg 
         imageWidth: 500px
@@ -164,10 +164,10 @@ languages:
       footer:
         logo: "/images/refresh-square.svg"
         email: 
-          link: имя.фамилия@домен.com
+          link: contato@mikaelsouza.com.br
           title: Эл. адрес
         linkedin: 
-          link: your_linkedin_profile
+          link: linkedin.com/in/mikaelsouzaoficial
           title: LinkedIn
         # facebook: 
         #   link: your.username
@@ -181,5 +181,5 @@ languages:
         # github: 
         #   link: username
         #   title: Github
-        copyright: Julia белая краска - 2020
+        copyright: Mikael Souza - 2020
       
