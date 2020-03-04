@@ -90,7 +90,7 @@ params:
   # homepage options
   homepage:
     # option to specify the title in the homepage
-    title: Julia The White
+    title: Mikael Souza
     # option to specify the subtitle in the homepage
     subtitle: Blog de Tecnologia
     # option to specify image in the homepage
