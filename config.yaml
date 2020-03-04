@@ -132,7 +132,7 @@ params:
     #    link: username
     #    title: Instagram
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2020
+    copyright: Mikael Souza - 2020
 
 ###################################################################
 ################## multilanguage support options ##################
