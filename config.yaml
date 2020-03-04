@@ -109,7 +109,7 @@ params:
       title: My Email
     # option to specify your linkedin profile in the footer
     linkedin: 
-      link: /in/mikaelsouzaoficial
+      link: in/mikaelsouzaoficial
       title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
@@ -167,7 +167,7 @@ languages:
           link: contato@mikaelsouza.com.br
           title: Эл. адрес
         linkedin: 
-          link: /in/mikaelsouzaoficial
+          link: in/mikaelsouzaoficial
           title: LinkedIn
         # facebook: 
         #   link: your.username
