@@ -3,7 +3,7 @@ title: "Configurando Certificado SSL (HTTPS) em VirtualHost no Apache (Debian)"
 date: 2019-06-17T23:53:00+01:00
 draft: false
 hideLastModified: true
-summaryImage: "images/seguranca.jpg"
+summaryImage: "images/ssl.png"
 keepImageRatio: true
 summary: "Configurando Certificado SSL (HTTPS) em VirtualHost \
 no Debian (Apache)"
