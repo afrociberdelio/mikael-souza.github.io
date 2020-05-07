@@ -10,6 +10,19 @@ com proxy revervo no Apache"
 tags: ["grafana", "apache"]
 ---
 
+Activate modules
+
+```
+#a2enmod proxy_http
+#a2enmod proxy
+```
+
+Restart Apache
+
+```
+#systemctl restart apache2
+```
+
 Create file /etc/apache2/sites-available/grafana.local.conf:
 
 ```
@@ -31,8 +44,6 @@ Create file /etc/apache2/sites-available/grafana.local.conf:
 </VirtualHost>
 ```
 
-
-
 Add in file /etc/grafana/grafana.ini:
 
 ```
@@ -40,3 +51,11 @@ http_addr = 127.0.0.1
 http_port = 3000
 root_url = http://grafana.local
 ```
+
+Restart Apache
+
+```
+#systemctl restart apache2
+```
+
+Done.
