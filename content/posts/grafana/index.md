@@ -7,7 +7,7 @@ summaryImage: "images/grafana_apache.jpg"
 keepImageRatio: true
 summary: "Configurando Grafana \
 com proxy revervo no Apache"
-tags: ["grafana", "apache"]
+tags: ["grafana", "apache", "debian"]
 ---
 
 Activate modules
