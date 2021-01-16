@@ -10,6 +10,7 @@ tags: ["covid"]
 ---
 
 {{% figure src="images/Brasil_covid.jpg" width="400" %}}
+{{% figure src="images/Brasil_covid.png" height="400" %}}
 
 Um simples ser humano iniciou a pandemia.
 Um simples ser humano negou a pandemia.
