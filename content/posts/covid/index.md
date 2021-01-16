@@ -12,8 +12,6 @@ tags: ["covid"]
 {{< figure src="images/Brasil_covid.jpg" size="500x" >}}
 {{< /figure >}}
 
-{{% Videos id1="Ncv2KmhVgyU" autoplay1=true ratio1="4:3" %}}
-
 {{% twoVideos id1="Ncv2KmhVgyU" autoplay1=true ratio1="16:9" %}}
 
 Um simples ser humano iniciou a pandemia.
