@@ -23,3 +23,7 @@ por 2.080 mortes, quando nós seres humanos, vamos ter conciência
 de nossas ações?
 
 Obs: Ao fim da pandemia refaça os cálculos.
+
+{{< book title="Tangled Web, A Guide to Securing Modern Web Applications." authors="Michal Zalewski" image="images/Brasil_covid.jpg" size="300x" >}}
+    A fantastic guide to understand the web and the browser. It starts from a historic view of the web and evolves to cover the modern world. 
+{{< /book >}}
