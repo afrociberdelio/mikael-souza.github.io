@@ -9,8 +9,6 @@ summary: "Um Simples Ser Humano"
 tags: ["covid"]
 ---
 
-{{% figure src="images/Brasil_covid.jpg" width="400" %}}
-{{% figure src="images/Brasil_covid.png" height="400" %}}
 
 Um simples ser humano iniciou a pandemia.
 Um simples ser humano negou a pandemia.
@@ -24,6 +22,6 @@ de nossas ações?
 
 Obs: Ao fim da pandemia refaça os cálculos.
 
-{{< book title="Tangled Web, A Guide to Securing Modern Web Applications." authors="Michal Zalewski" image="images/Brasil_covid.jpg" size="300x" >}}
+{{< book title="Um Simples Ser Humano" authors="Mikael Souza" image="images/Brasil_covid.jpg" size="400x" >}}
     A fantastic guide to understand the web and the browser. It starts from a historic view of the web and evolves to cover the modern world. 
 {{< /book >}}
