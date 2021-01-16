@@ -10,7 +10,6 @@ tags: ["covid"]
 ---
 
 {{< figure src="images/Brasil_covid.jpg" size="500x" >}}
-{{< /figure >}}
 
 {{% twoVideos id1="Ncv2KmhVgyU" autoplay1=true ratio1="16:9" %}}
 
