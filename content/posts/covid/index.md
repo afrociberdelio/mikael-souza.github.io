@@ -9,7 +9,7 @@ summary: "Um Simples Ser Humano"
 tags: ["covid"]
 ---
 
-{{% twoVideos id2="pKRzfdIJUZE" id1="Ncv2KmhVgyU" autoplay1=true ratio1="4:3" ratio2="16:9" %}}
+{{% figure src="images/Brasil_covid.jpg" width="700" %}}
 
 Um simples ser humano iniciou a pandemia.
 Um simples ser humano negou a pandemia.
