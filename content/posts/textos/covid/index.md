@@ -16,8 +16,9 @@ Um simples ser humano negou a pandemia.{{< newLine >}}
 Mais de 208 mil seres humanos já morreram no Brasil.{{< newLine >}}
 
 Vamos imaginar, que as pessoas que não respeitaram{{< newLine >}}
-as medidas de prevenção até hoje 16/01/2021, contribuíram com apenas 1%{{< newLine >}}
-desses 208.000 mortes, elas seriam responsáveis por 2.080 pessoas que perderam o fôlego da vida.{{< newLine >}}
+as medidas de prevenção até hoje 16/01/2021, contribuíram{{< newLine >}}
+com apenas 1% desses 208.000 mortes, elas seriam responsáveis
+por 2.080 pessoas que perderam o fôlego da vida.
 {{< newLine >}}
 Quando nós seres humanos, vamos ter consciência de nossas ações?{{< newLine >}}
 {{< newLine >}}
