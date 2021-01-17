@@ -11,7 +11,7 @@ tags: ["text"]
 
 {{< figure src="images/Brasil_covid.jpg" width="700" >}}
 
-{{< video src="https://www.youtube.com/watch?v=ciQ2FObc3tc" width="600px" >}}
+{{< youtube id="w7Ft2ymGmfc" autoplay="true" >}}
 
 {{% twoVideos id2="" id1="Ncv2KmhVgyU" autoplay1=true ratio1="4:3" ratio2="16:9" %}}
 
