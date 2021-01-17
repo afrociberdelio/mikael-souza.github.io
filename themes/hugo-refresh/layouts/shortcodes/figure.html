@@ -2,7 +2,7 @@
 {{- $width    := printf "%s" (.Get "width" ) -}}
 {{- $height   := printf "%s" (.Get "height") -}}
 {{- $align    := printf "%s" (.Get "align") -}}
-{{- $size     := printf "%sx%s" $width $height -}}
+{{- $size     := printf "%sx%s" $width $height $align -}}
 {{- with $original -}}
 {{- $image := .Resize $size -}}
 <div class="columns is-centered container">
