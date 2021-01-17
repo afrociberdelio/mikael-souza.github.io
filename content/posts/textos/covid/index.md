@@ -2,7 +2,7 @@
 title: 'Um Simples Ser Humano'
 date: 2020-01-16T10:50:00+01:00
 draft: false
-hideLastModified: true
+hideLastModified: false
 summaryImage: "images/Brasil_covid.jpg"
 keepImageRatio: true
 summary: "Um Simples Ser Humano"
