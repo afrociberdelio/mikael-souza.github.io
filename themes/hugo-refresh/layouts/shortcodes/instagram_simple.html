@@ -2,7 +2,7 @@
 {{- $sc := .Page.Site.Config.Services.Instagram -}}
 {{- if not $pc.Disable -}}
 {{- $id := .Get 0 -}}
-{{- $item := getJSON "https://api.instagram.com/oembed/?url=https://www.instagram.com/p/" $id "/&amp;maxwidth=640&amp;omitscript=true" -}}
+{{- $item := getJSON "https://graph.instagram.com/oembed/?url=https://www.instagram.com/p/" $id "/&amp;maxwidth=640&amp;omitscript=true" -}}
 {{- $class1 := "__h_instagram" -}}
 {{- $class2 := "s_instagram_simple" -}}
 {{- $hideCaption := (eq (.Get 1) "hidecaption") -}}
