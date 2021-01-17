@@ -11,21 +11,14 @@ tags: ["text"]
 
 {{< figure src="images/Brasil_covid.jpg" width="700" >}}
 
-#{{< vimeo id="146022717" class="my-vimeo-wrapper-class" title="My vimeo video" >}}
+Um simples ser humano iniciou a pandemia.{{< newline >}}
+Um simples ser humano negou a pandemia.{{< newline >}}
+Mais de 208 mil seres humanos já morreram no Brasil. {{< newline >}}
 
-#{{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" autoplay="true">}}
-
-{{< video src="videos/linux.mp4" width="600px" autoplay="true" muted="true" preload="auto" >}}
-
-
-Um simples ser humano iniciou a pandemia.
-Um simples ser humano negou a pandemia.
-Mais de 208 mil seres humanos já morreram no Brasil. 
-
-Vamos imaginar, que as pessoas que não respeitaram
-as medidas de prevenção até hoje 16/01/2021, contribuíram com apenas 1%
-desses 208.000 mortes, elas seriam responsáveis por 2.080 pessoas que perderam o fôlego da vida.
-
-Quando nós seres humanos, vamos ter consciência de nossas ações?
-
+Vamos imaginar, que as pessoas que não respeitaram{{< newline >}}
+as medidas de prevenção até hoje 16/01/2021, contribuíram com apenas 1%{{< newline >}}
+desses 208.000 mortes, elas seriam responsáveis por 2.080 pessoas que perderam o fôlego da vida.{{< newline >}}
+{{< newline >}}
+Quando nós seres humanos, vamos ter consciência de nossas ações?{{< newline >}}
+{{< newline >}}
 Obs: Ao fim da pandemia refaça os cálculos.
