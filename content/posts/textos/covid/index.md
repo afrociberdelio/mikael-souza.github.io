@@ -6,7 +6,7 @@ hideLastModified: true
 summaryImage: "images/Brasil_covid.jpg"
 keepImageRatio: true
 summary: "Um Simples Ser Humano"
-tags: ["covid"]
+tags: ["text"]
 ---
 
 {{% figure src="images/Brasil_covid.jpg" width="700" %}}
