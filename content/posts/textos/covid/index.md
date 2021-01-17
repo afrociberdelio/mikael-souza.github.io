@@ -11,9 +11,9 @@ tags: ["text"]
 
 {{< figure src="images/Brasil_covid.jpg" width="700" >}}
 
-{{< vimeo id="146022717" class="my-vimeo-wrapper-class" title="My vimeo video" >}}
+#{{< vimeo id="146022717" class="my-vimeo-wrapper-class" title="My vimeo video" >}}
 
-{{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" autoplay="true">}}
+#{{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" autoplay="true">}}
 
 Um simples ser humano iniciou a pandemia.
 Um simples ser humano negou a pandemia.
