@@ -1,6 +1,7 @@
 {{- $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) -}}
 {{- $width    := printf "%s" (.Get "width" ) -}}
 {{- $height   := printf "%s" (.Get "height") -}}
+{{- $align   := printf "%s" (.Get "align") -}}
 {{- $size     := printf "%sx%s" $width $height -}}
 {{- with $original -}}
 {{- $image := .Resize $size -}}
@@ -9,7 +10,8 @@
         <figure>
             <img class="rounded-corners" src="{{- $image.RelPermalink -}}" 
                 width="{{- $image.Width -}}" 
-                height="{{- $image.Height -}}">
+                height="{{- $image.Height -}}"
+                align="{{- $image.Align -}}">
         </figure>
     </div>
 </div>
