@@ -11,8 +11,6 @@ tags: ["text"]
 
 {{< figure src="images/Brasil_covid.jpg" width="700" >}}
 
-{{< instagram BWNjjyYFxVx >}}
-
 {{< vimeo 146022717 >}}
 
 Um simples ser humano iniciou a pandemia.
