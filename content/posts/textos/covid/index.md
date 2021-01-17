@@ -15,6 +15,9 @@ tags: ["text"]
 
 #{{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" autoplay="true">}}
 
+{{< video src="https://scontent-ort2-2.xx.fbcdn.net/v/t66.36240-6/43140980_113535067256219_4427965521803821202_n.mp4?_nc_cat=106&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=3SmfXNzgaAcAX8zyXd0&_nc_ht=scontent-ort2-2.xx&oh=3c7403cd9084fb50cbe27a860cc594eb&oe=602C16D2" width="600px" >}}
+
+
 Um simples ser humano iniciou a pandemia.
 Um simples ser humano negou a pandemia.
 Mais de 208 mil seres humanos já morreram no Brasil. 
