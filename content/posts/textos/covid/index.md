@@ -11,11 +11,9 @@ tags: ["text"]
 
 {{< figure src="images/Brasil_covid.jpg" width="700" >}}
 
-{{< figure src="https://www.youtube.com/watch?v=ciQ2FObc3tc" width="700" >}}
+{{< video src="https://www.youtube.com/watch?v=ciQ2FObc3tc" width="600px" >}}
 
-{{% oneVideos id1="Ncv2KmhVgyU" autoplay1=true ratio1="4:3" %}}
-
-{{% twoVideos id2="pKRzfdIJUZE" id1="Ncv2KmhVgyU" autoplay1=true ratio1="4:3" ratio2="16:9" %}}
+{{% twoVideos id2="" id1="Ncv2KmhVgyU" autoplay1=true ratio1="4:3" ratio2="16:9" %}}
 
 Um simples ser humano iniciou a pandemia.
 Um simples ser humano negou a pandemia.
