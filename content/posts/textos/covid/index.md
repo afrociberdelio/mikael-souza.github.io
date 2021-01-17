@@ -15,7 +15,7 @@ tags: ["text"]
 
 #{{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" autoplay="true">}}
 
-{{< video src="videos/linux.mp4" width="600px" autoplay="true" >}}
+{{< video src="videos/linux.mp4" width="600px" autoplay="true" muted="true" >}}
 
 
 Um simples ser humano iniciou a pandemia.
