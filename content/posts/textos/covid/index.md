@@ -13,8 +13,6 @@ tags: ["text"]
 
 {{< youtube id="w7Ft2ymGmfc" autoplay="true" >}}
 
-{{% twoVideos id2="" id1="Ncv2KmhVgyU" autoplay1=true ratio1="4:3" ratio2="16:9" %}}
-
 Um simples ser humano iniciou a pandemia.
 Um simples ser humano negou a pandemia.
 Mais de 208 mil seres humanos já morreram no Brasil. 
