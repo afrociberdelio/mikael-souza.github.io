@@ -1,8 +1,7 @@
 {{- $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) -}}
 {{- $width    := printf "%s" (.Get "width" ) -}}
 {{- $height   := printf "%s" (.Get "height") -}}
-{{- $align    := printf "%s" (.Get "align") -}}
-{{- $size     := printf "%sx%s" $width $height $align -}}
+{{- $size     := printf "%sx%s" $width $height -}}
 {{- with $original -}}
 {{- $image := .Resize $size -}}
 <div class="columns is-centered container">
@@ -10,8 +9,7 @@
         <figure>
             <img class="rounded-corners" src="{{- $image.RelPermalink -}}" 
                 width="{{- $image.Width -}}" 
-                height="{{- $image.Height -}}"
-                align="{{- $image.Align -}}">
+                height="{{- $image.Height -}}">
         </figure>
     </div>
 </div>
