@@ -1,7 +1,7 @@
 {{- $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) -}}
 {{- $width    := printf "%s" (.Get "width" ) -}}
 {{- $height   := printf "%s" (.Get "height") -}}
-{{- $align   := printf "%s" (.Get "align") -}}
+{{- $align    := printf "%s" (.Get "align") -}}
 {{- $size     := printf "%sx%s" $width $height -}}
 {{- with $original -}}
 {{- $image := .Resize $size -}}
