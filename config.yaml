@@ -93,7 +93,7 @@ params:
     title: Mikael Souza
     # option to specify the subtitle in the homepage
     subtitle: Blog de Tecnologia
-    subtitle: (Em construção)
+    # subtitle: (Em construção)
     # option to specify image in the homepage
     image: "/images/avataaars.png" # worker.svg 
     # option to specify the width of the image in the homepage
@@ -133,7 +133,7 @@ params:
     #    link: username
     #    title: Instagram
     # option to specify the copyright in the footer
-    copyright: Mikael Souza - 2020
+    copyright: Mikael Souza - 2021
 
 ###################################################################
 ################## multilanguage support options ##################
@@ -182,5 +182,5 @@ languages:
         # github: 
         #   link: username
         #   title: Github
-        copyright: Mikael Souza - 2020
+        copyright: Mikael Souza - 2021
       
