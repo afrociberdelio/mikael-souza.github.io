@@ -1,5 +1,5 @@
 ---
-title: "Grafana com proxy revervo no Apache (Debian)"
+title: "Grafana com proxy reverso no Apache (Debian)"
 date: 2019-06-17T23:53:00+01:00
 draft: false
 hideLastModified: true
