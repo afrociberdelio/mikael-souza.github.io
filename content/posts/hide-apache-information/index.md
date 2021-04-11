@@ -9,8 +9,9 @@ summary: "Ocultando versão do Apache"
 tags: ["centos","apache", "debian"]
 ---
 
-Add file /etc/httpd/conf/httpd.conf (CentOS):
-Add file /etc/apache2/conf-enabled/security.conf (Debian):
+Edit file /etc/httpd/conf/httpd.conf (CentOS):
+{{< newLine >}}
+Edit file /etc/apache2/conf-enabled/security.conf (Debian):
 
 ```
 ServerTokens Prod
