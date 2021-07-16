@@ -1,11 +1,11 @@
 ---
-title: "Usando Curl como alternativa ao SCP"
+title: "Usando cURL como alternativa ao SCP"
 date: 2021-07-15T21:50:00+01:00
 draft: false
 hideLastModified: false
 summaryImage: "images/curl-picture.png"
 keepImageRatio: true
-summary: "Usando Curl como \
+summary: "Usando cURL como \
 Alternativa ao SCP"
 tags: ["curl", "linux"]
 ---
