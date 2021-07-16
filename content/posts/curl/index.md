@@ -13,11 +13,11 @@ tags: ["curl", "linux"]
 Upload de arquivos
 
 ```
-$ curl --insecure --user username:password -T /path/to/sourcefile sftp://desthost/path/
+$ curl --user username:password -T /path/to/sourcefile sftp://desthost/path/
 ```
 
 Download de arquivos
 
 ```
-$ curl --insecure --user username:password sftp://desthost/path/filename.txt -o filename.txt
+$ curl --user username:password sftp://desthost/path/filename.txt -o filename.txt
 ```
