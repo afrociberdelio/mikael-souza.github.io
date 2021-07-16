@@ -10,7 +10,7 @@ Alternativa ao SCP"
 tags: ["curl", "linux"]
 ---
 
-Upload de arquivos para uma máquina de destino
+Upload de arquivos
 
 ```
 $ curl --insecure --user username:password -T /path/to/sourcefile sftp://desthost/path/
@@ -21,5 +21,3 @@ Download de arquivos
 ```
 $ curl --insecure --user username:password sftp://desthost/path/filename.txt -o filename.txt
 ```
-
-Done.
