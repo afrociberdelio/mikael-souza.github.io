@@ -3,13 +3,13 @@ title: 'O Amor em tempos modernos'
 date: 2021-08-21T20:19:00+01:00
 draft: false
 hideLastModified: false
-summaryImage: "images/amor-loquido.png"
+summaryImage: "images/amor-liquido.png"
 keepImageRatio: true
 summary: "O Amor em tempos modernos"
 tags: ["text"]
 ---
 
-{{< figure src="images/amor-loquido.png" width="700" align="left" >}}
+{{< figure src="images/amor-liquido.png" width="700" align="left" >}}
 {{< newLine >}}
 Há alguns anos atrás não necessitávamos entender o conceito de “relações{{< newLine >}}
 liquidas” do Sociólogo Polonês Zigmunt Bauman, muitas vezes visto como{{< newLine >}}
