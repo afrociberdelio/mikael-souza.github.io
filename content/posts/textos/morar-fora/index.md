@@ -20,7 +20,7 @@ ficando no Brasil, me aperfeiçoando a cada dia{{< newLine >}}
 contribuindo com a comunidade e como cidadão.{{< newLine >}}
 Imaginem se não existissem bons profissionais{{< newLine >}}
 aqui no Brasil, o que seria de nós, da nossa formação,{{< newLine >}}
-da siciedade como um todo?{{< newLine >}}
+da sociedade como um todo?{{< newLine >}}
 {{< newLine >}}
 Cada vez que um bom profissional, faz a mala e sai daqui,{{< newLine >}}
 todo conhecimento e riqueza vão junto com ele, é por isso{{< newLine >}}
