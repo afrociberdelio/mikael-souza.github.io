@@ -1,7 +1,7 @@
 {{- $sass      := "style.sass" -}}
 {{- $scss      := "style.scss" -}}
 {{- $cssTarget := "css/style.css" -}}
-a
+
 {{- $cssOpts   := cond (hugo.IsServer) (dict "targetPath" $cssTarget "enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle" "compressed") -}}
 {{- $font1     := replace .Site.Params.mainPage.fontFamily " " "+" -}}
 {{- $font2     := replace .Site.Params.sidebar.fontFamily " " "+" -}}
@@ -28,7 +28,7 @@ a
 {{- $css3 := resources.Get "css/refresh.css" -}}
 {{- $css4 := resources.Get "css/devicon.min.css" -}}
 
-{{- if hugo.Params.cssMinify -}}
+{{- if .Site.Params.cssMinify -}}
 
 {{- $css  = $css  | resources.Minify -}}
 {{- $css1 = $css1 | resources.Minify -}}
