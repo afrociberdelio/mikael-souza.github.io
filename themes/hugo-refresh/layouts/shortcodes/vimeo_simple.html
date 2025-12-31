@@ -1,4 +1,4 @@
-{{- $pc := .Page.Site.Config.Privacy.Vimeo -}}
+<!-- {{- $pc := .Page.Site.Config.Privacy.Vimeo -}}
 {{- if not $pc.Disable -}}
 {{ $id := .Get "id" | default (.Get 0) }}
 {{ $dnt := cond (eq $pc.EnableDNT true) "?dnt=1" "" }}
@@ -19,4 +19,4 @@
 <img src="{{ $thumb }}" srcset="{{ $thumb }} 1x, {{ $original }} 2x" alt="{{ .title }}">
 <div class="play">{{ template "__h_simple_icon_play" $ }}</div></a></div>
 {{- end -}}
-{{- end -}}
+{{- end -}} -->
