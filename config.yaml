@@ -1,4 +1,4 @@
-baseURL: https://mikaelsouza.com.br
+baseURL: https://mikaelsouza.com
 languageCode: en-us
 title: Blog de Tecnologia
 theme: hugo-refresh
@@ -106,11 +106,11 @@ params:
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
-      link: contato@mikaelsouza.com.br
+      link: contato@mikaelsouza.com
       title: My Email
     # option to specify your linkedin profile in the footer
     linkedin: 
-      link: in/mikaelsouzaoficial
+      link: in/mikaeldevs
       title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
@@ -133,7 +133,7 @@ params:
     #    link: username
     #    title: Instagram
     # option to specify the copyright in the footer
-    copyright: Mikael Souza - 2022
+    copyright: Mikael Souza - 2026
 
 ###################################################################
 ################## multilanguage support options ##################
@@ -165,10 +165,10 @@ languages:
       footer:
         logo: "/images/refresh-square.svg"
         email: 
-          link: contato@mikaelsouza.com.br
+          link: contato@mikaelsouza.com
           title: Эл. адрес
         linkedin: 
-          link: in/mikaelsouzaoficial
+          link: in/mikaeldevs
           title: LinkedIn
         # facebook: 
         #   link: your.username
@@ -182,5 +182,5 @@ languages:
         # github: 
         #   link: username
         #   title: Github
-        copyright: Mikael Souza - 2022
+        copyright: Mikael Souza - 2026
       
